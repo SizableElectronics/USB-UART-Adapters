@@ -41,6 +41,7 @@ Main components
 
 ## A comparison between the adapters
 Serial Dog | Serial Bear | Serial Grasshopper
+--- | --- | ---
 USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps)
 USB powers target | Needs power from both ends | Needs power from both ends
 
