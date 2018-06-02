@@ -15,7 +15,6 @@ A normal USB to UART/Serial adapter.
 Main components
 * CP2102
 * USB Type-C Connector
-* Passive components
 
 ### == Serial Bear ==
 A USB to UART/Serial adapter that hade a wide input range, which means that you don't need to care about what voltage level you target uses. Both 3.3V and 5V will work.
@@ -26,7 +25,6 @@ Main components
 * CP2102
 * """"""""""""Cool wide range chip""""""""""""
 * USB Type-C Connector
-* Passive components
 
 ### == Serial Grasshopper ==
 A fully isolated USB to UART/Serial adapter. Your computer blows up? No problem, your target survives. Your target going crazy? No problem, your computer survives. The target levels can be 3.3V or 5V, like the Serial Bear.
@@ -37,7 +35,6 @@ Main components
 * CP2102
 * """"""""""""Cool isolated chip""""""""""""
 * USB Type-C Connector
-* Passive components
 
 ## A comparison between the adapters
 Serial Dog | Serial Bear | Serial Grasshopper
