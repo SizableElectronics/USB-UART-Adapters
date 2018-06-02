@@ -25,6 +25,7 @@ USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps)
 USB powers target | Needs power from both ends | Needs power from both ends
 5V Target levels | 2-6V Target levels | 3.3 or 5v Target levels
 Not insulated | Voltlevels insulation | Fully electric insulation
+Target Price $9.9 | Target Price $11.9 | Target Price $14.9
 
 ## Wanna contribute?
 Feel free to make a pull request and I will take a look at it and hopefully merge dem it if it's good.
