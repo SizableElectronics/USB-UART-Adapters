@@ -9,32 +9,14 @@ We started our UART adapters project because we needed a good isolated adapter. 
 ## More info about the adapters
 There are going to exist three different UART adapters in out serie. Read more info about the induviual adapters below.
 
-### == Serial Dog ==
+* Serial Dog
 A normal USB to UART/Serial adapter.
 
-Main components
-* CP2102
-* USB Type-C Connector
+* Serial Bear
+A USB to UART/Serial adapter that hade a wide input range, which means that you don't need to care about what voltage level you target uses. Both 3.3V and 5V will work. The name Serial Bear comes from the fact that a Bear is a flexible omnivore, almost like this wide range target levels.
 
-### == Serial Bear ==
-A USB to UART/Serial adapter that hade a wide input range, which means that you don't need to care about what voltage level you target uses. Both 3.3V and 5V will work.
-
-The name Serial Bear comes from the fact that a Bear is a flexible omnivore, almost like this wide range target levels.
-
-Main components
-* CP2102
-* """"""""""""Cool wide range chip""""""""""""
-* USB Type-C Connector
-
-### == Serial Grasshopper ==
-A fully isolated USB to UART/Serial adapter. Your computer blows up? No problem, your target survives. Your target going crazy? No problem, your computer survives. The target levels can be 3.3V or 5V, like the Serial Bear.
-
-The name Serial Grasshopper comes from the fact that a grasshopper jumps really long. Almost like the isolated signals going through the adapter.
-
-Main components
-* CP2102
-* """"""""""""Cool isolated chip""""""""""""
-* USB Type-C Connector
+* Serial Grasshopper
+A fully isolated USB to UART/Serial adapter. Your computer blows up? No problem, your target survives. Your target going crazy? No problem, your computer survives. The target levels can be 3.3V or 5V, like the Serial Bear. The name Serial Grasshopper comes from the fact that a grasshopper jumps really long. Almost like the isolated signals going through the adapter.
 
 ## A comparison between the adapters
 Serial Dog | Serial Bear | Serial Grasshopper
