@@ -1,0 +1,277 @@
+EESchema Schematic File Version 2
+LIBS:usb_uart_adapters_sch
+LIBS:power
+LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:USB_C_Receptacle J?
+U 1 1 5B16D0DC
+P 3600 3850
+F 0 "J?" H 3850 2350 50  0000 L CNN
+F 1 "Connector:USB_C_Receptacle" H 4150 5350 50  0000 R CNN
+F 2 "" H 3750 3850 50  0001 C CNN
+F 3 "" H 3750 3850 50  0001 C CNN
+	1    3600 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Interface_USB:CP2102N-A01-GQFN24 U?
+U 1 1 5B16D111
+P 5300 3050
+F 0 "U?" H 5100 3950 50  0000 R CNN
+F 1 "Interface_USB:CP2102N-A01-GQFN24" H 5100 3850 50  0000 R CNN
+F 2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" H 5750 2250 50  0001 L CNN
+F 3 "" H 5350 2000 50  0001 C CNN
+	1    5300 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L 1x6_2.54_smd_header C?
+U 1 1 5B16D148
+P 6850 2700
+F 0 "C?" H 6800 2300 50  0000 C CNN
+F 1 "1x6_2.54_smd_header" H 6950 3100 50  0000 C CNN
+F 2 "" H 6900 2400 50  0001 C CNN
+F 3 "" H 6900 2400 50  0001 C CNN
+	1    6850 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B16D3E5
+P 6200 2200
+F 0 "#PWR?" H 6200 1950 50  0001 C CNN
+F 1 "GND" H 6200 2050 50  0000 C CNN
+F 2 "" H 6200 2200 50  0001 C CNN
+F 3 "" H 6200 2200 50  0001 C CNN
+	1    6200 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5B16D412
+P 6200 2600
+F 0 "#PWR?" H 6200 2450 50  0001 C CNN
+F 1 "VCC" H 6200 2750 50  0000 C CNN
+F 2 "" H 6200 2600 50  0001 C CNN
+F 3 "" H 6200 2600 50  0001 C CNN
+	1    6200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B16D7D3
+P 3700 5550
+F 0 "#PWR?" H 3700 5300 50  0001 C CNN
+F 1 "GND" H 3700 5400 50  0000 C CNN
+F 2 "" H 3700 5550 50  0001 C CNN
+F 3 "" H 3700 5550 50  0001 C CNN
+	1    3700 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5B16DA4D
+P 4350 2550
+F 0 "#PWR?" H 4350 2400 50  0001 C CNN
+F 1 "VCC" H 4350 2700 50  0000 C CNN
+F 2 "" H 4350 2550 50  0001 C CNN
+F 3 "" H 4350 2550 50  0001 C CNN
+	1    4350 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B16DCDE
+P 5400 4050
+F 0 "#PWR?" H 5400 3800 50  0001 C CNN
+F 1 "GND" H 5400 3900 50  0000 C CNN
+F 2 "" H 5400 4050 50  0001 C CNN
+F 3 "" H 5400 4050 50  0001 C CNN
+	1    5400 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5B16DDB6
+P 5200 2050
+F 0 "#PWR?" H 5200 1900 50  0001 C CNN
+F 1 "VCC" H 5200 2200 50  0000 C CNN
+F 2 "" H 5200 2050 50  0001 C CNN
+F 3 "" H 5200 2050 50  0001 C CNN
+	1    5200 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5B16E102
+P 4600 3300
+F 0 "#PWR?" H 4600 3150 50  0001 C CNN
+F 1 "VCC" H 4600 3450 50  0000 C CNN
+F 2 "" H 4600 3300 50  0001 C CNN
+F 3 "" H 4600 3300 50  0001 C CNN
+	1    4600 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SP0503BAHT U?
+U 1 1 5B16EA74
+P 5100 4650
+F 0 "U?" H 5300 4350 60  0000 C CNN
+F 1 "SP0503BAHT" H 5100 4950 60  0000 C CNN
+F 2 "" H 5100 4600 60  0001 C CNN
+F 3 "" H 5100 4600 60  0001 C CNN
+	1    5100 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5B16EBCD
+P 4650 4850
+F 0 "#PWR?" H 4650 4600 50  0001 C CNN
+F 1 "GND" H 4650 4700 50  0000 C CNN
+F 2 "" H 4650 4850 50  0001 C CNN
+F 3 "" H 4650 4850 50  0001 C CNN
+	1    4650 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L VCC #PWR?
+U 1 1 5B16EC6A
+P 4650 4450
+F 0 "#PWR?" H 4650 4300 50  0001 C CNN
+F 1 "VCC" H 4650 4600 50  0000 C CNN
+F 2 "" H 4650 4450 50  0001 C CNN
+F 3 "" H 4650 4450 50  0001 C CNN
+	1    4650 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 2750 6550 2750
+Wire Wire Line
+	5900 2850 6550 2850
+Wire Wire Line
+	6200 2600 6200 2650
+Wire Wire Line
+	6200 2650 6550 2650
+Wire Wire Line
+	6550 2450 6350 2450
+Wire Wire Line
+	6350 2450 6350 2150
+Wire Wire Line
+	6350 2150 6200 2150
+Wire Wire Line
+	6200 2150 6200 2200
+Wire Wire Line
+	3400 5450 3400 5500
+Wire Wire Line
+	3300 5500 3700 5500
+Wire Wire Line
+	3500 5450 3500 5500
+Connection ~ 3500 5500
+Wire Wire Line
+	3600 5450 3600 5500
+Connection ~ 3600 5500
+Wire Wire Line
+	3300 5450 3300 5500
+Connection ~ 3400 5500
+Connection ~ 3700 5500
+Wire Wire Line
+	3700 5450 3700 5550
+Wire Wire Line
+	4250 2850 4200 2850
+Wire Wire Line
+	4250 2550 4250 2850
+Wire Wire Line
+	4250 2750 4200 2750
+Wire Wire Line
+	4250 2650 4200 2650
+Connection ~ 4250 2750
+Wire Wire Line
+	4200 2550 4350 2550
+Connection ~ 4250 2650
+Connection ~ 4250 2550
+Wire Wire Line
+	5300 3950 5300 4000
+Wire Wire Line
+	5300 4000 5400 4000
+Connection ~ 5400 4000
+Wire Wire Line
+	5300 2150 5300 2100
+Wire Wire Line
+	5300 2100 5200 2100
+Wire Wire Line
+	5200 2050 5200 2150
+Connection ~ 5200 2100
+Wire Wire Line
+	4600 3300 4600 3350
+Wire Wire Line
+	4600 3350 4700 3350
+Wire Wire Line
+	4700 3450 4200 3450
+Wire Wire Line
+	4700 3550 4200 3550
+Wire Wire Line
+	4750 4800 4650 4800
+Wire Wire Line
+	4650 4800 4650 4850
+Wire Wire Line
+	4650 4450 4650 4500
+Wire Wire Line
+	4650 4500 4750 4500
+Wire Wire Line
+	5400 3950 5400 4050
+Wire Wire Line
+	4750 4600 4500 4600
+Wire Wire Line
+	4500 4600 4500 3550
+Connection ~ 4500 3550
+Wire Wire Line
+	4750 4700 4400 4700
+Wire Wire Line
+	4400 4700 4400 3450
+Connection ~ 4400 3450
+$EndSCHEMATC
