@@ -27,8 +27,8 @@ USB powers target | Needs power from both ends | Needs power from both ends
 Not insulated | Voltlevels insulation | Fully electric insulation
 Target Price $9.9 | Target Price $11.9 | Target Price $14.9
 
-## Wanna contribute?
-Feel free to make a pull request and I will take a look at it and hopefully merge dem it if it's good.
+## Want to contribute?
+Feel free to make a pull request and I will take a look at it and hopefully merge dem it if it's any good.
 
 ## License
 Apache License Version 2.0
