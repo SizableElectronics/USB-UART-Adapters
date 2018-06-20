@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:USB_C_Receptacle J1
+L serialdog-rescue:USB_C_Receptacle-Connector J1
 U 1 1 5B16D0DC
 P 1400 3650
 F 0 "J1" H 1650 2150 50  0000 L CNN
@@ -26,7 +26,7 @@ F 3 "" H 1550 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Interface_USB:CP2102N-A01-GQFN24 U2
+L serialdog-rescue:CP2102N-A01-GQFN24-Interface_USB U2
 U 1 1 5B16D111
 P 5300 3050
 F 0 "U2" H 5100 3950 50  0000 R CNN
