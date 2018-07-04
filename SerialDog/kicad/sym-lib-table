@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name serialdog-rescue)(type Legacy)(uri ${KIPRJMOD}/serialdog-rescue.lib)(options "")(descr ""))
-)
