@@ -1,8 +1,8 @@
-# Serial Dog
-An Open Source USB to 3.3V UART adapter. Made with the help of EasyEDA. Use it as inpiration, build your own or buy a premade one from our **Amazon store** (comming soon).
+# Serial Fox
+An Open Source USB to UART adapter with intergrated level shifters. Made with the help of EasyEDA. Use it as inpiration, build your own or buy a premade one from our **Amazon store** (comming soon).
 
-## How is Serial Dog different from the other Serial adapters?
-Serial Dog Powers the target though it's USB connection, which non of the other adapters go. We have rated it for max 500mAh, which a normal USB port can provide. This also has a fixed output target voltage at **3.3V**.
+## How is Serial Fox different from the other Serial adapters?
+Serial Fox have an electrical isolated output which meands it can be used with targets that use a voltage all from 2V to 6V. The adapter needs power from both ends and can't deliver power to the target.
 
 ## BOM
 Amount | Part | Description | Pad(s) | Datasheet | Buy Link

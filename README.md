@@ -19,7 +19,7 @@ A USB to UART/Serial adapter that have a wide input range. Both 3.3V and 5V will
 A fully insolated USB to UART/Serial adapter. Protects the target from the computer and the other way around in case something bad would to happen to any on them. The name Serial Hopper comes from the fact that a grasshopper jumps really long. Almost like the insolated signals going through the adapter.
 
 ## A comparison between the adapters
-Serial Dog | Serial Fox | Serial Grasshopper
+Serial Dog | Serial Fox | Serial Hopper
 --- | --- | ---
 USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps)
 USB powers target | Needs power from both ends | Needs power from both ends
