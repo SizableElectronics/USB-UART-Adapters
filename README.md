@@ -10,7 +10,7 @@ We started our UART adapters project because we needed a good insolated adapter.
 There are going to exist three different UART adapters in out serie. This is some short info about the induviual adapters below. For more info, check out their's appropriate folders.
 
 * **Serial Dog**
-A normal USB to UART/Serial adapter. Powers target with 3.3v.
+A normal USB to UART/Serial adapter. Delivers 3.3v power to target.
 
 * **Serial Fox**
 A USB to UART/Serial adapter that have a wide input range. Both 3.3V and 5V will work. The name Serial Fox comes from the fact that a Fox is very agile, almost like this adapter with the context of voltage levels.
@@ -24,7 +24,7 @@ Serial Dog | Serial Fox | Serial Hopper
 USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps) | USB 2.0 (12 Mbps)
 USB powers target | Needs power from both ends | Needs power from both ends
 3.3V Target levels | 2-6V Target levels | 3.3 or 5v Target levels
-Not insulated | Voltlevels insulation | Fully electric insulation
+Not insulated | Voltlevel insulation | Fully electric insulation
 Target Price $11.9 | Target Price $11.9 | Target Price $16.9
 
 ## License
