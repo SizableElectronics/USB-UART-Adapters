@@ -25,7 +25,7 @@ Amount | Part | Description | Pad(s) | Datasheet | Buy Link
 4 | 100n Capacitor | 0402 | C2,C3,C4,C5 | -- | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GCM155R71C104KA55D_100nF-104-10-16V-Car-level_C85857.html)
 1 | 10u Capacitor | 0603 | C6 | -- | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_10uF-106-20-16V_C109457.html)
 1 | 600Ω Inductor | 0603 | L1 | -- | [LCSC](https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_600R-25-1-3A_C97000.html)
-1 | Polyfuse_Small | Fuse | F1 | -- | [LCSC](https://lcsc.com/product-detail/Surface-Mount-Fuses_Self-healing-fuse-500mA-15V_C146252.html)
+1 | Polyfuse | 1206 | F1 | -- | [LCSC](https://lcsc.com/product-detail/Surface-Mount-Fuses_Self-healing-fuse-500mA-15V_C146252.html)
 1 | ORANGE LED | TX LED 0603 | D4 | -- | [LCSC](https://lcsc.com/product-detail/_FFC-1608YOXK-600H08_C108553.html)
 1 | GREEN LED | POWER LED 0603 | D5 | -- | [LCSC](https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Emerald-SMDLED-500-1080mcd_C87326.html)
 1 | YELLOW LED | RX LED 0603 | D6 | -- | [LCSC](https://lcsc.com/product-detail/_FC-1608YXK-585F08_C89811.html)
