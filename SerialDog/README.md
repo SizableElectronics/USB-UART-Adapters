@@ -21,7 +21,7 @@ Amount | Part | Description | Pad(s) | Datasheet | Buy Link
 1 | 47k5 Resistor | 0402, for config of CP2102N | R3 | -- | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_Uniroyal-Elec-0402WGF4752TCE_C25896.html)
 1 | 22k1 Resistor | 0402, for config of CP2102N | R4 | -- | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_Uniroyal-Elec-0402WGF2212TCE_C43473.html)
 3 | 680R Resistor | 0402 | R9,R10,R11 | -- | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_Uniroyal-Elec-0402WGJ0681TCE_C25177.html)
-1 | 3K3 Resistor  | -- | R12 | -- | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_3-3KR-332-5_C102983.html)
+1 | 3K3 Resistor  | 0402 | R12 | -- | [LCSC](https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_3-3KR-332-5_C102983.html)
 4 | 100n Capacitor | 0402 | C2,C3,C4,C5 | -- | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GCM155R71C104KA55D_100nF-104-10-16V-Car-level_C85857.html)
 1 | 10u Capacitor | 0603 | C6 | -- | [LCSC](https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_10uF-106-20-16V_C109457.html)
 1 | 600Ω Inductor | 0603 | L1 | -- | [LCSC](https://lcsc.com/product-detail/Ferrite-Beads-And-Chips_600R-25-1-3A_C97000.html)
