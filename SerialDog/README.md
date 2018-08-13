@@ -6,7 +6,7 @@ An Open Source USB to 3.3V UART adapter. Made with the help of EasyEDA. Use it a
 ![Serial Dog v0.1 Schematic](https://github.com/SizableElectronics/USB-UART-Adapters/raw/master/SerialDog/v0.1/schematic_cropped.png)
 
 ## How is Serial Dog different from the other Serial adapters?
-Serial Dog Power the target though it's USB connection, which none of the other adapters in our lineup do. We have rated the output power to 500mAh, which usualy a normal USB 2.0 port on a computer can provide. This also has a fixed output voltage at **3.3V**, both for the ouput power and for the signal pins.
+Serial Dog Power the target though it's USB connection, which none of the other adapters in our lineup do. We have rated the output power to 500mAh, which a normal USB 2.0 port on a computer can provide. This also has a fixed output voltage at **3.3V**, both for the ouput power and for the signal pins.
 
 ## BOM
 Amount | Part | Description | Pad(s) | Datasheet | Buy Link
