@@ -2,7 +2,6 @@
 # Serial Dog
 An Open Source USB to 3.3V UART adapter. Made with the help of EasyEDA. Use it as inpiration, build your own or buy a premade one from our **Amazon store** (comming soon). The project can also be found on our [public easyeda.com page](https://easyeda.com/webjocke/SerialDog).
 
-
 ## Schematic for Serial Dog v0.1
 ![Serial Dog v0.1 Schematic](https://github.com/SizableElectronics/USB-UART-Adapters/raw/master/SerialDog/v0.1/schematic_cropped.png)
 
